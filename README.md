@@ -1,6 +1,6 @@
 # Multi-depth-camera point cloud fusion for Pybullet
 
-##usage
+## usage
 
 Run dual_arm_test.py
 
